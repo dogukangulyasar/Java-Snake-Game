@@ -1,0 +1,3 @@
+module snake {
+	requires libUI;
+}
